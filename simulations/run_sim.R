@@ -32,10 +32,10 @@ source(here::here("source", "fit_em.R"))
 ###############################################################
 
 # remember to justify nsim
-nsim = 100
+nsim = 1000
 
 n = c(50, 100, 500)
-lambda = c(50, 100)
+lambda = c(10, 50, 100)
 
 
 params = expand.grid(n = n,
