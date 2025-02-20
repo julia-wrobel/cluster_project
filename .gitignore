@@ -1,0 +1,9 @@
+*html
+*pdf
+*Rda
+*RDATA
+*RDA
+*cache/
+*DS_Store
+.Rhistory
+.Rproj.user/
